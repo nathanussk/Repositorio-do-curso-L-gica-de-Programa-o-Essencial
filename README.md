@@ -7,7 +7,7 @@
 
 <h1 align="center">
 
-<img src="https://github.com/nathanussk/Repositorio-do-curso-Logica-de-Programacao-Essencial/files/6785029/4FF0533E.pdf"
+<img src="https://hermes.digitalinnovation.one/certificates/cover/4FF0533E.jpg"
     height="400">
 
 </h1>
