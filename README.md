@@ -4,13 +4,13 @@
 
 
 
-## 📷 Fluxograma:
+## 📷 Fluxogramas: Notas, Pessoa, Cartao:
 
 <h1 align="center">
 
 <img src="https://user-images.githubusercontent.com/53570115/124937018-662e2a00-dfdd-11eb-9a18-3f49daf92e92.png"
     height="400">
-<img src="hhttps://user-images.githubusercontent.com/53570115/124937022-66c6c080-dfdd-11eb-8f8a-4eaff6d29ede.png"
+<img src="https://user-images.githubusercontent.com/53570115/124937022-66c6c080-dfdd-11eb-8f8a-4eaff6d29ede.png"
     height="400">
 <img src="https://user-images.githubusercontent.com/53570115/124937030-675f5700-dfdd-11eb-8c50-7fc5304ad621.png"
     height="400">
