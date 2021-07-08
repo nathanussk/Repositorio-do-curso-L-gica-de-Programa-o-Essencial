@@ -1,0 +1,58 @@
+1: Definição
+"Dentro da logica de programação é uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos. e acordo com uma condição ou com um contador".
+
+1.2: O que é Linguagem de Programação
+"Linguagem de programação é uma linguagem escrita e formal que especifica um conjunto de instruçoes e regras usadas para gerar programas (software). Um software pode ser desenvolvido para rodar em um computador, dispositivo movel ou em qualquer equipamento que permita sua execução"
+"O que é obvio para voce, certamente nao eh obvio para uma maquina, E se voce quer que a maquina faça algo pra voce, voce precisa, "fala com ela".
+"A função das linguagens de programação é servir de um meio de comunicação entre computadores e humanos".
+
+1.3: Baixo e alto nivel
+ALTO NIVEL
+"Essas sao aquelas cuja sintaxe se aproxima mais da nossa linguagem e se distanciam mais da linguagem de maquina.
+BAIXO NIVEL
+"E aquela que se aproxima mais da linguagem de maquina. Essas sao as que voce precisa ter o conhecimento direto da arquitetura do computador para fazer alguma coisa".
+
+1.4: Compiladas ou interpretadas
+COMPILADAS
+"É uma linguagem de programação em que o codigo fonte, é executado diretamente pelo sistema operacional ou pelo processador, apos ser traduzido por meio de um processo chamado compilaçao".
+INTERPRETADAS
+"É uma linguagem de programação em que o codigo fonte é executado por um programa de computador chamado interpretador, que em seguida é executado pelo sistema operacional ou processador".
+
+1.5: O que é o Portugol?
+"Portugol é uma pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em portugues de forma simples e intuitiva, independentemente de linguagem de programação"
+"E uma pseudolinguagem que permite ao programador pensar no problema em si e nao no equipamento que ira executar o algoritmo".
+
+1.6: Utilização
+"É utilizada a palavra reservada se, a condição a ser testada entre parentenses e as instrucoes que devem ser executadas entre chaves caso o desvio seja verdadeiro"
+EXEMPLO
+" se (media>=7{ 
+	escreva("Parabens!! Voce foi aprovado!!")
+}
+"
+1.7: Se-senao
+"Agora vamos imaginar que se a condição for falsa um outro conjunto de comandos deve ser executado."
+EXEMPLO
+" senao(media>=7){
+	escreva("Infelizmente!! Voce foi reprovado!!")
+}
+"
+1.8: Caso
+"Este comando é similar aos comandos "se" e "senao", e reduz a complexidade na escolha de diversas opçoes. Apesar de suas similaridades com o se, ele possui algumas diferenças. Neste comando nao é possivel o uso de operadores logicos, ele apenas trabalha com valores definidos.
+
+1.9: Repetição
+"Dentro da logica de programação é uma estrtura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um contador."
+EXEMPLO
+" funcao inicio()
+{ 	inteiro contador, limite, resultado
+	contador = 0
+	limite = 10
+	faca
+	{ 	resultado = 9 * contador
+		escreva ("9 X" + contador + "=" + resultado + "\n")
+		contador ++
+	}esquanto (contador <= limite)
+}
+"
+2.0: O que é uma matriz
+"Uma matriz é uma coleçao de variaveis de mesmo tipo, acessiveis com um unico nome e armazenados contiguamente na memoria. A individualização de cada variavel de um vetor é feita atraves do uso de indices. Os Vetores são matrizes de uma so dimensão.
+	

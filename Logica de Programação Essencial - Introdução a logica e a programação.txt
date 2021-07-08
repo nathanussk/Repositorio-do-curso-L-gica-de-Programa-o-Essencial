@@ -1,0 +1,83 @@
+1: O que é um algoritmo?
+"É uma sequencia de passos que resolver um problema"
+
+1.2: Exemplo de algoritmo
+"inicio-dia
+	Acordei
+	Levantei da cama
+	Troquei de roupa
+	Escovei os dentes
+	Fui a padaria
+	Tomei cafe
+	Escovei os dentes
+	Fui ao trabalho
+	...
+Fim-dia"
+
+1.3: O que é um Fluxograma?
+"Fluxograma é uma ferramenta utilizada para representar graficamente o algoritmo, isto é, a sequencia logica e coerente do fluxo de dados".
+
+1.4: O que são variaveis?
+"Na programação, uma variavel é um objeto (uma posição, frequentemente localizada na memoria) capaz de reter e representar um valor ou expressão".
+"Uma variavel é um espaço na memoria do computador destinado a um dado que é alterado durante a execução do algoritmo"
+
+1.5: Declaração de variaveis
+"INICIO
+DECLARA nota1:numero
+DECLARA nota2:numero
+DECLARA nota3:numero
+DECLARA nota4:numero
+DECLARA media:numero
+LEIA(nota1)
+LEIA(nota2)
+LEIA(nota3)
+LEIA(nota4)
+media=(nota1+nota2+nota3+nota4)/4
+IMPRIMIR(media)
+FIM"
+
+1.6: Tipos de variaveis
+"As variaveis e as constantes podem ser classificadas basicamente de quatro tipos: Numericas, Caracteres, Alfanumericas ou Logicas".
+
+1.7: O que é uma constante?
+"As constantes sao valores imutaveis e nao sao alterados durante a vida util do programa.
+
+1.8: Declaração de constante
+"INICIO
+DECLARA pi=3,14
+DECLARA raio: numero
+FIM"
+
+LINK UTIL: http://flowgorithm.org/download/index.htm
+
+1.9: Expressoes aritmeticas
+"Sao expressoes que utilizam operadores aritmeticos e funcoes aritmeticas envolvendo constantes e variaveis".
+"EXEMPLO: 50+50 total+50"
+
+2.0: Operadores aritmeticos
+"Soma: + Subtração: - Multiplicação: * Divisao: / Potenciação: ^ Porcentagem: %
+
+2.1: Expressoes literais
+"Sao expressoes com constantes e/ou variaveis que tem como resultado valores literais. iremos utilizar as expressoes literais na atribuição de valor para uma variavel ou constante.
+"Exemplos:
+nome="Jose da Silva"
+nome<-"Jose da Silva"
+media=(nota1+nota2+nota3+nota4)/4"
+
+2.2: Operadores relacionais
+"Sao expressoes compostas por outras expressoes ou variaveis numericas com operadores relacionais. As expressoes relacionais retornam valores logicos (vdd/falso)"
+|Simbolo|Nome do Operador| Exemplo |      Significado      |
+|  >    | Maior que      | x > y   | x é maior que y?      |
+|  >=   | Maior ou igual | x >= y  | x maior ou igual a y? |
+|   <   | Menor que      | x < y   | x é menor que y?      |
+|  <=   | Menor ou igual | x <= y  | x é menor ou igual y? |
+|  ==   | Igualdade      | x == y  | x é igual a y?        |
+|  !=   | Diferente de   | x != y  | x é diferente de y?   |
+
+2.3: Tomadas de decisao
+"Quando escrevemos programas, geralmente ocorre a necessidade de decidir o que fazer dependendo de alguma condição encontrada durante a execução"
+
+2.4: Definição
+"Concatenação é um termo usado em computação para designar a operação de unir o conteudo de duas strings*.
+*string é uma sequencia de caracteres
+"Agrupamento de duas ou mais celulas que, incluindo formulas, textos ou outras informaçoes contida no seu interior, da origem a um unico resultado".
